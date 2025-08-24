@@ -3,7 +3,7 @@
 <h3 align="center">🚀 Full-Stack Software Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&center=true&vCenter=true&width=600&lines=💻+Coding+%7C+🚀+Learning+%7C+🔥+Building+cool+stuff" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&center=true&vCenter=true&width=600&lines=%7C+💻+Coding+%7C+🚀+Learning+%7C+🔥+Building+cool+stuff" alt="Typing Animation" />
 </p>
 
 ---
@@ -40,11 +40,10 @@
 
 ---
 
-### 🎨 Fun Touch
 <p align="center">
   <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" width="100%" alt="Header Animation" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/satya164/satya164/master/hero.svg" width="80%" alt="Cool Animation" />
+  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width="60%" alt="Coding Animation" />
 </p>
