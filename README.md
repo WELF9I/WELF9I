@@ -3,7 +3,7 @@
 <h3 align="center">🚀 Full-Stack Software Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&center=true&vCenter=true&width=600&lines=%7C+💻+Coding+%7C+🚀+Learning+%7C+🔥+Building+cool+stuff" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&center=true&vCenter=true&width=700&lines=+%7C+💻+Coding+%7C+🚀+Learning+%7C+🔥+Building+cool+stuff+%7C+" alt="Typing Animation" />
 </p>
 
 ---
