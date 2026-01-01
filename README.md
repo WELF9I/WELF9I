@@ -16,7 +16,7 @@
 
 ---
 
-### 🌐 Connect with me
+### 🌐 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/mohamed-amine-welfeki-1b3514244"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" /></a>
   <a href="https://welfeki-portfolio.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=vercel" /></a>
@@ -33,9 +33,26 @@
 ---
 
 ### 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WELF9I&show_icons=true&theme=radical" alt="GitHub Stats" height="165"/>
-<!--   <img src="https://github-readme-streak-stats.herokuapp.com?user=WELF9I&theme=radical&hide_border=false" alt="GitHub Streak" height="165"/> -->
+  <!-- Main Profile Stats -->
+  <a href="https://github.com/WELF9I">
+    <img src="https://github-readme-stats-fast.vercel.app/api?username=WELF9I&show_icons=true&theme=radical" alt="GitHub Stats" height="165" />
+  </a>
+
+  <!-- Top Languages -->
+  <a href="https://github.com/WELF9I">
+    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=WELF9I&layout=compact&theme=radical" alt="Top Languages" height="165" />
+  </a>
+</p>
+
+---
+
+### 🔥 Contribution Streak
+<p align="center">
+  <a href="https://github.com/WELF9I">
+    <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=WELF9I&theme=radical" alt="GitHub Streak" height="165" />
+  </a>
 </p>
 
 ---
